@@ -139,11 +139,1180 @@ def encode():
                 elif encode[x] == '.':
                     print('2fLm', end='')
 
+            elif secondary == 1:
+                if encode[x] == 'a':
+                    print('cypD', end='')
+                elif encode[x] == 'b':
+                    print('BH6t', end='')
+                elif encode[x] == 'c':
+                    print('rdBF', end='')
+                elif encode[x] == 'd':
+                    print('rOF6', end='')
+                elif encode[x] == 'e':
+                    print('FhJn', end='')
+                elif encode[x] == 'f':
+                    print('vUPz', end='')
+                elif encode[x] == 'g':
+                    print('0Zk0', end='')
+                elif encode[x] == 'h':
+                    print('sS2a', end='')
+                elif encode[x] == 'i':
+                    print('0s9x', end='')
+                elif encode[x] == 'j':
+                    print('TQVq', end='')
+                elif encode[x] == 'k':
+                    print('Xi3E', end='')
+                elif encode[x] == 'l':
+                    print('tkHV', end='')
+                elif encode[x] == 'm':
+                    print('dnto', end='')
+                elif encode[x] == 'n':
+                    print('Geeu', end='')
+                elif encode[x] == 'o':
+                    print('9qYr', end='')
+                elif encode[x] == 'p':
+                    print('clnr', end='')
+                elif encode[x] == 'q':
+                    print('Rp02', end='')
+                elif encode[x] == 'r':
+                    print('8xvV', end='')
+                elif encode[x] == 's':
+                    print('HS9v', end='')
+                elif encode[x] == 't':
+                    print('hoCi', end='')
+                elif encode[x] == 'u':
+                    print('GSuA', end='')
+                elif encode[x] == 'v':
+                    print('MkzD', end='')
+                elif encode[x] == 'w':
+                    print('PhFD', end='')
+                elif encode[x] == 'x':
+                    print('FCZ5', end='')
+                elif encode[x] == 'y':
+                    print('1EJx', end='')
+                elif encode[x] == 'z':
+                    print('PMGt', end='')
+                elif encode[x] == 'A':
+                    print('F3rd', end='')
+                elif encode[x] == 'B':
+                    print('MobQ', end='')
+                elif encode[x] == 'C':
+                    print('3W31', end='')
+                elif encode[x] == 'D':
+                    print('dhr7', end='')
+                elif encode[x] == 'E':
+                    print('Am78', end='')
+                elif encode[x] == 'F':
+                    print('m4dU', end='')
+                elif encode[x] == 'G':
+                    print('V4Ib', end='')
+                elif encode[x] == 'H':
+                    print('hmZM', end='')
+                elif encode[x] == 'I':
+                    print('Z6OZ', end='')
+                elif encode[x] == 'J':
+                    print('ML0t', end='')
+                elif encode[x] == 'K':
+                    print('p4ki', end='')
+                elif encode[x] == 'L':
+                    print('tnSz', end='')
+                elif encode[x] == 'M':
+                    print('uG0W', end='')
+                elif encode[x] == 'N':
+                    print('hXKO', end='')
+                elif encode[x] == 'O':
+                    print('O380', end='')
+                elif encode[x] == 'P':
+                    print('JQaQ', end='')
+                elif encode[x] == 'Q':
+                    print('Gj7L', end='')
+                elif encode[x] == 'R':
+                    print('hQ2k', end='')
+                elif encode[x] == 'S':
+                    print('sBio', end='')
+                elif encode[x] == 'T':
+                    print('wqJl', end='')
+                elif encode[x] == 'U':
+                    print('67M5', end='')
+                elif encode[x] == 'V':
+                    print('MeeH', end='')
+                elif encode[x] == 'W':
+                    print('WIkK', end='')
+                elif encode[x] == 'X':
+                    print('CFcf', end='')
+                elif encode[x] == 'Y':
+                    print('oVCh', end='')
+                elif encode[x] == 'Z':
+                    print('kas0', end='')
+                elif encode[x] == '0':
+                    print('CukP', end='')
+                elif encode[x] == '1':
+                    print('H95s', end='')
+                elif encode[x] == '2':
+                    print('rgVq', end='')
+                elif encode[x] == '3':
+                    print('8DKi', end='')
+                elif encode[x] == '4':
+                    print('kbga', end='')
+                elif encode[x] == '5':
+                    print('vfcV', end='')
+                elif encode[x] == '6':
+                    print('5Z2S', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')
+            elif secondary == 2:
+                if encode[x] == 'a':
+                    print('', end='')
+                elif encode[x] == 'b':
+                    print('', end='')
+                elif encode[x] == 'c':
+                    print('', end='')
+                elif encode[x] == 'd':
+                    print('', end='')
+                elif encode[x] == 'e':
+                    print('', end='')
+                elif encode[x] == 'f':
+                    print('', end='')
+                elif encode[x] == 'g':
+                    print('', end='')
+                elif encode[x] == 'h':
+                    print('', end='')
+                elif encode[x] == 'i':
+                    print('', end='')
+                elif encode[x] == 'j':
+                    print('', end='')
+                elif encode[x] == 'k':
+                    print('', end='')
+                elif encode[x] == 'l':
+                    print('', end='')
+                elif encode[x] == 'm':
+                    print('', end='')
+                elif encode[x] == 'n':
+                    print('', end='')
+                elif encode[x] == 'o':
+                    print('', end='')
+                elif encode[x] == 'p':
+                    print('', end='')
+                elif encode[x] == 'q':
+                    print('', end='')
+                elif encode[x] == 'r':
+                    print('', end='')
+                elif encode[x] == 's':
+                    print('', end='')
+                elif encode[x] == 't':
+                    print('', end='')
+                elif encode[x] == 'u':
+                    print('', end='')
+                elif encode[x] == 'v':
+                    print('', end='')
+                elif encode[x] == 'w':
+                    print('', end='')
+                elif encode[x] == 'x':
+                    print('', end='')
+                elif encode[x] == 'y':
+                    print('', end='')
+                elif encode[x] == 'z':
+                    print('', end='')
+                elif encode[x] == 'A':
+                    print('', end='')
+                elif encode[x] == 'B':
+                    print('', end='')
+                elif encode[x] == 'C':
+                    print('', end='')
+                elif encode[x] == 'D':
+                    print('', end='')
+                elif encode[x] == 'E':
+                    print('', end='')
+                elif encode[x] == 'F':
+                    print('', end='')
+                elif encode[x] == 'G':
+                    print('', end='')
+                elif encode[x] == 'H':
+                    print('', end='')
+                elif encode[x] == 'I':
+                    print('', end='')
+                elif encode[x] == 'J':
+                    print('', end='')
+                elif encode[x] == 'K':
+                    print('', end='')
+                elif encode[x] == 'L':
+                    print('', end='')
+                elif encode[x] == 'M':
+                    print('', end='')
+                elif encode[x] == 'N':
+                    print('', end='')
+                elif encode[x] == 'O':
+                    print('', end='')
+                elif encode[x] == 'P':
+                    print('', end='')
+                elif encode[x] == 'Q':
+                    print('', end='')
+                elif encode[x] == 'R':
+                    print('', end='')
+                elif encode[x] == 'S':
+                    print('', end='')
+                elif encode[x] == 'T':
+                    print('', end='')
+                elif encode[x] == 'U':
+                    print('', end='')
+                elif encode[x] == 'V':
+                    print('', end='')
+                elif encode[x] == 'W':
+                    print('', end='')
+                elif encode[x] == 'X':
+                    print('', end='')
+                elif encode[x] == 'Y':
+                    print('', end='')
+                elif encode[x] == 'Z':
+                    print('', end='')
+                elif encode[x] == '0':
+                    print('', end='')
+                elif encode[x] == '1':
+                    print('', end='')
+                elif encode[x] == '2':
+                    print('', end='')
+                elif encode[x] == '3':
+                    print('', end='')
+                elif encode[x] == '4':
+                    print('', end='')
+                elif encode[x] == '5':
+                    print('', end='')
+                elif encode[x] == '6':
+                    print('', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')
+
+            elif secondary == 3:
+                if encode[x] == 'a':
+                    print('', end='')
+                elif encode[x] == 'b':
+                    print('', end='')
+                elif encode[x] == 'c':
+                    print('', end='')
+                elif encode[x] == 'd':
+                    print('', end='')
+                elif encode[x] == 'e':
+                    print('', end='')
+                elif encode[x] == 'f':
+                    print('', end='')
+                elif encode[x] == 'g':
+                    print('', end='')
+                elif encode[x] == 'h':
+                    print('', end='')
+                elif encode[x] == 'i':
+                    print('', end='')
+                elif encode[x] == 'j':
+                    print('', end='')
+                elif encode[x] == 'k':
+                    print('', end='')
+                elif encode[x] == 'l':
+                    print('', end='')
+                elif encode[x] == 'm':
+                    print('', end='')
+                elif encode[x] == 'n':
+                    print('', end='')
+                elif encode[x] == 'o':
+                    print('', end='')
+                elif encode[x] == 'p':
+                    print('', end='')
+                elif encode[x] == 'q':
+                    print('', end='')
+                elif encode[x] == 'r':
+                    print('', end='')
+                elif encode[x] == 's':
+                    print('', end='')
+                elif encode[x] == 't':
+                    print('', end='')
+                elif encode[x] == 'u':
+                    print('', end='')
+                elif encode[x] == 'v':
+                    print('', end='')
+                elif encode[x] == 'w':
+                    print('', end='')
+                elif encode[x] == 'x':
+                    print('', end='')
+                elif encode[x] == 'y':
+                    print('', end='')
+                elif encode[x] == 'z':
+                    print('', end='')
+                elif encode[x] == 'A':
+                    print('', end='')
+                elif encode[x] == 'B':
+                    print('', end='')
+                elif encode[x] == 'C':
+                    print('', end='')
+                elif encode[x] == 'D':
+                    print('', end='')
+                elif encode[x] == 'E':
+                    print('', end='')
+                elif encode[x] == 'F':
+                    print('', end='')
+                elif encode[x] == 'G':
+                    print('', end='')
+                elif encode[x] == 'H':
+                    print('', end='')
+                elif encode[x] == 'I':
+                    print('', end='')
+                elif encode[x] == 'J':
+                    print('', end='')
+                elif encode[x] == 'K':
+                    print('', end='')
+                elif encode[x] == 'L':
+                    print('', end='')
+                elif encode[x] == 'M':
+                    print('', end='')
+                elif encode[x] == 'N':
+                    print('', end='')
+                elif encode[x] == 'O':
+                    print('', end='')
+                elif encode[x] == 'P':
+                    print('', end='')
+                elif encode[x] == 'Q':
+                    print('', end='')
+                elif encode[x] == 'R':
+                    print('', end='')
+                elif encode[x] == 'S':
+                    print('', end='')
+                elif encode[x] == 'T':
+                    print('', end='')
+                elif encode[x] == 'U':
+                    print('', end='')
+                elif encode[x] == 'V':
+                    print('', end='')
+                elif encode[x] == 'W':
+                    print('', end='')
+                elif encode[x] == 'X':
+                    print('', end='')
+                elif encode[x] == 'Y':
+                    print('', end='')
+                elif encode[x] == 'Z':
+                    print('', end='')
+                elif encode[x] == '0':
+                    print('', end='')
+                elif encode[x] == '1':
+                    print('', end='')
+                elif encode[x] == '2':
+                    print('', end='')
+                elif encode[x] == '3':
+                    print('', end='')
+                elif encode[x] == '4':
+                    print('', end='')
+                elif encode[x] == '5':
+                    print('', end='')
+                elif encode[x] == '6':
+                    print('', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')
+            elif secondary == 4:
+                if encode[x] == 'a':
+                    print('', end='')
+                elif encode[x] == 'b':
+                    print('', end='')
+                elif encode[x] == 'c':
+                    print('', end='')
+                elif encode[x] == 'd':
+                    print('', end='')
+                elif encode[x] == 'e':
+                    print('', end='')
+                elif encode[x] == 'f':
+                    print('', end='')
+                elif encode[x] == 'g':
+                    print('', end='')
+                elif encode[x] == 'h':
+                    print('', end='')
+                elif encode[x] == 'i':
+                    print('', end='')
+                elif encode[x] == 'j':
+                    print('', end='')
+                elif encode[x] == 'k':
+                    print('', end='')
+                elif encode[x] == 'l':
+                    print('', end='')
+                elif encode[x] == 'm':
+                    print('', end='')
+                elif encode[x] == 'n':
+                    print('', end='')
+                elif encode[x] == 'o':
+                    print('', end='')
+                elif encode[x] == 'p':
+                    print('', end='')
+                elif encode[x] == 'q':
+                    print('', end='')
+                elif encode[x] == 'r':
+                    print('', end='')
+                elif encode[x] == 's':
+                    print('', end='')
+                elif encode[x] == 't':
+                    print('', end='')
+                elif encode[x] == 'u':
+                    print('', end='')
+                elif encode[x] == 'v':
+                    print('', end='')
+                elif encode[x] == 'w':
+                    print('', end='')
+                elif encode[x] == 'x':
+                    print('', end='')
+                elif encode[x] == 'y':
+                    print('', end='')
+                elif encode[x] == 'z':
+                    print('', end='')
+                elif encode[x] == 'A':
+                    print('', end='')
+                elif encode[x] == 'B':
+                    print('', end='')
+                elif encode[x] == 'C':
+                    print('', end='')
+                elif encode[x] == 'D':
+                    print('', end='')
+                elif encode[x] == 'E':
+                    print('', end='')
+                elif encode[x] == 'F':
+                    print('', end='')
+                elif encode[x] == 'G':
+                    print('', end='')
+                elif encode[x] == 'H':
+                    print('', end='')
+                elif encode[x] == 'I':
+                    print('', end='')
+                elif encode[x] == 'J':
+                    print('', end='')
+                elif encode[x] == 'K':
+                    print('', end='')
+                elif encode[x] == 'L':
+                    print('', end='')
+                elif encode[x] == 'M':
+                    print('', end='')
+                elif encode[x] == 'N':
+                    print('', end='')
+                elif encode[x] == 'O':
+                    print('', end='')
+                elif encode[x] == 'P':
+                    print('', end='')
+                elif encode[x] == 'Q':
+                    print('', end='')
+                elif encode[x] == 'R':
+                    print('', end='')
+                elif encode[x] == 'S':
+                    print('', end='')
+                elif encode[x] == 'T':
+                    print('', end='')
+                elif encode[x] == 'U':
+                    print('', end='')
+                elif encode[x] == 'V':
+                    print('', end='')
+                elif encode[x] == 'W':
+                    print('', end='')
+                elif encode[x] == 'X':
+                    print('', end='')
+                elif encode[x] == 'Y':
+                    print('', end='')
+                elif encode[x] == 'Z':
+                    print('', end='')
+                elif encode[x] == '0':
+                    print('', end='')
+                elif encode[x] == '1':
+                    print('', end='')
+                elif encode[x] == '2':
+                    print('', end='')
+                elif encode[x] == '3':
+                    print('', end='')
+                elif encode[x] == '4':
+                    print('', end='')
+                elif encode[x] == '5':
+                    print('', end='')
+                elif encode[x] == '6':
+                    print('', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')
+
+            elif secondary == 5:
+                if encode[x] == 'a':
+                    print('', end='')
+                elif encode[x] == 'b':
+                    print('', end='')
+                elif encode[x] == 'c':
+                    print('', end='')
+                elif encode[x] == 'd':
+                    print('', end='')
+                elif encode[x] == 'e':
+                    print('', end='')
+                elif encode[x] == 'f':
+                    print('', end='')
+                elif encode[x] == 'g':
+                    print('', end='')
+                elif encode[x] == 'h':
+                    print('', end='')
+                elif encode[x] == 'i':
+                    print('', end='')
+                elif encode[x] == 'j':
+                    print('', end='')
+                elif encode[x] == 'k':
+                    print('', end='')
+                elif encode[x] == 'l':
+                    print('', end='')
+                elif encode[x] == 'm':
+                    print('', end='')
+                elif encode[x] == 'n':
+                    print('', end='')
+                elif encode[x] == 'o':
+                    print('', end='')
+                elif encode[x] == 'p':
+                    print('', end='')
+                elif encode[x] == 'q':
+                    print('', end='')
+                elif encode[x] == 'r':
+                    print('', end='')
+                elif encode[x] == 's':
+                    print('', end='')
+                elif encode[x] == 't':
+                    print('', end='')
+                elif encode[x] == 'u':
+                    print('', end='')
+                elif encode[x] == 'v':
+                    print('', end='')
+                elif encode[x] == 'w':
+                    print('', end='')
+                elif encode[x] == 'x':
+                    print('', end='')
+                elif encode[x] == 'y':
+                    print('', end='')
+                elif encode[x] == 'z':
+                    print('', end='')
+                elif encode[x] == 'A':
+                    print('', end='')
+                elif encode[x] == 'B':
+                    print('', end='')
+                elif encode[x] == 'C':
+                    print('', end='')
+                elif encode[x] == 'D':
+                    print('', end='')
+                elif encode[x] == 'E':
+                    print('', end='')
+                elif encode[x] == 'F':
+                    print('', end='')
+                elif encode[x] == 'G':
+                    print('', end='')
+                elif encode[x] == 'H':
+                    print('', end='')
+                elif encode[x] == 'I':
+                    print('', end='')
+                elif encode[x] == 'J':
+                    print('', end='')
+                elif encode[x] == 'K':
+                    print('', end='')
+                elif encode[x] == 'L':
+                    print('', end='')
+                elif encode[x] == 'M':
+                    print('', end='')
+                elif encode[x] == 'N':
+                    print('', end='')
+                elif encode[x] == 'O':
+                    print('', end='')
+                elif encode[x] == 'P':
+                    print('', end='')
+                elif encode[x] == 'Q':
+                    print('', end='')
+                elif encode[x] == 'R':
+                    print('', end='')
+                elif encode[x] == 'S':
+                    print('', end='')
+                elif encode[x] == 'T':
+                    print('', end='')
+                elif encode[x] == 'U':
+                    print('', end='')
+                elif encode[x] == 'V':
+                    print('', end='')
+                elif encode[x] == 'W':
+                    print('', end='')
+                elif encode[x] == 'X':
+                    print('', end='')
+                elif encode[x] == 'Y':
+                    print('', end='')
+                elif encode[x] == 'Z':
+                    print('', end='')
+                elif encode[x] == '0':
+                    print('', end='')
+                elif encode[x] == '1':
+                    print('', end='')
+                elif encode[x] == '2':
+                    print('', end='')
+                elif encode[x] == '3':
+                    print('', end='')
+                elif encode[x] == '4':
+                    print('', end='')
+                elif encode[x] == '5':
+                    print('', end='')
+                elif encode[x] == '6':
+                    print('', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')
+        
+            elif secondary == 6:
+                if encode[x] == 'a':
+                    print('', end='')
+                elif encode[x] == 'b':
+                    print('', end='')
+                elif encode[x] == 'c':
+                    print('', end='')
+                elif encode[x] == 'd':
+                    print('', end='')
+                elif encode[x] == 'e':
+                    print('', end='')
+                elif encode[x] == 'f':
+                    print('', end='')
+                elif encode[x] == 'g':
+                    print('', end='')
+                elif encode[x] == 'h':
+                    print('', end='')
+                elif encode[x] == 'i':
+                    print('', end='')
+                elif encode[x] == 'j':
+                    print('', end='')
+                elif encode[x] == 'k':
+                    print('', end='')
+                elif encode[x] == 'l':
+                    print('', end='')
+                elif encode[x] == 'm':
+                    print('', end='')
+                elif encode[x] == 'n':
+                    print('', end='')
+                elif encode[x] == 'o':
+                    print('', end='')
+                elif encode[x] == 'p':
+                    print('', end='')
+                elif encode[x] == 'q':
+                    print('', end='')
+                elif encode[x] == 'r':
+                    print('', end='')
+                elif encode[x] == 's':
+                    print('', end='')
+                elif encode[x] == 't':
+                    print('', end='')
+                elif encode[x] == 'u':
+                    print('', end='')
+                elif encode[x] == 'v':
+                    print('', end='')
+                elif encode[x] == 'w':
+                    print('', end='')
+                elif encode[x] == 'x':
+                    print('', end='')
+                elif encode[x] == 'y':
+                    print('', end='')
+                elif encode[x] == 'z':
+                    print('', end='')
+                elif encode[x] == 'A':
+                    print('', end='')
+                elif encode[x] == 'B':
+                    print('', end='')
+                elif encode[x] == 'C':
+                    print('', end='')
+                elif encode[x] == 'D':
+                    print('', end='')
+                elif encode[x] == 'E':
+                    print('', end='')
+                elif encode[x] == 'F':
+                    print('', end='')
+                elif encode[x] == 'G':
+                    print('', end='')
+                elif encode[x] == 'H':
+                    print('', end='')
+                elif encode[x] == 'I':
+                    print('', end='')
+                elif encode[x] == 'J':
+                    print('', end='')
+                elif encode[x] == 'K':
+                    print('', end='')
+                elif encode[x] == 'L':
+                    print('', end='')
+                elif encode[x] == 'M':
+                    print('', end='')
+                elif encode[x] == 'N':
+                    print('', end='')
+                elif encode[x] == 'O':
+                    print('', end='')
+                elif encode[x] == 'P':
+                    print('', end='')
+                elif encode[x] == 'Q':
+                    print('', end='')
+                elif encode[x] == 'R':
+                    print('', end='')
+                elif encode[x] == 'S':
+                    print('', end='')
+                elif encode[x] == 'T':
+                    print('', end='')
+                elif encode[x] == 'U':
+                    print('', end='')
+                elif encode[x] == 'V':
+                    print('', end='')
+                elif encode[x] == 'W':
+                    print('', end='')
+                elif encode[x] == 'X':
+                    print('', end='')
+                elif encode[x] == 'Y':
+                    print('', end='')
+                elif encode[x] == 'Z':
+                    print('', end='')
+                elif encode[x] == '0':
+                    print('', end='')
+                elif encode[x] == '1':
+                    print('', end='')
+                elif encode[x] == '2':
+                    print('', end='')
+                elif encode[x] == '3':
+                    print('', end='')
+                elif encode[x] == '4':
+                    print('', end='')
+                elif encode[x] == '5':
+                    print('', end='')
+                elif encode[x] == '6':
+                    print('', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')
+
+            elif secondary == 7:
+                if encode[x] == 'a':
+                    print('', end='')
+                elif encode[x] == 'b':
+                    print('', end='')
+                elif encode[x] == 'c':
+                    print('', end='')
+                elif encode[x] == 'd':
+                    print('', end='')
+                elif encode[x] == 'e':
+                    print('', end='')
+                elif encode[x] == 'f':
+                    print('', end='')
+                elif encode[x] == 'g':
+                    print('', end='')
+                elif encode[x] == 'h':
+                    print('', end='')
+                elif encode[x] == 'i':
+                    print('', end='')
+                elif encode[x] == 'j':
+                    print('', end='')
+                elif encode[x] == 'k':
+                    print('', end='')
+                elif encode[x] == 'l':
+                    print('', end='')
+                elif encode[x] == 'm':
+                    print('', end='')
+                elif encode[x] == 'n':
+                    print('', end='')
+                elif encode[x] == 'o':
+                    print('', end='')
+                elif encode[x] == 'p':
+                    print('', end='')
+                elif encode[x] == 'q':
+                    print('', end='')
+                elif encode[x] == 'r':
+                    print('', end='')
+                elif encode[x] == 's':
+                    print('', end='')
+                elif encode[x] == 't':
+                    print('', end='')
+                elif encode[x] == 'u':
+                    print('', end='')
+                elif encode[x] == 'v':
+                    print('', end='')
+                elif encode[x] == 'w':
+                    print('', end='')
+                elif encode[x] == 'x':
+                    print('', end='')
+                elif encode[x] == 'y':
+                    print('', end='')
+                elif encode[x] == 'z':
+                    print('', end='')
+                elif encode[x] == 'A':
+                    print('', end='')
+                elif encode[x] == 'B':
+                    print('', end='')
+                elif encode[x] == 'C':
+                    print('', end='')
+                elif encode[x] == 'D':
+                    print('', end='')
+                elif encode[x] == 'E':
+                    print('', end='')
+                elif encode[x] == 'F':
+                    print('', end='')
+                elif encode[x] == 'G':
+                    print('', end='')
+                elif encode[x] == 'H':
+                    print('', end='')
+                elif encode[x] == 'I':
+                    print('', end='')
+                elif encode[x] == 'J':
+                    print('', end='')
+                elif encode[x] == 'K':
+                    print('', end='')
+                elif encode[x] == 'L':
+                    print('', end='')
+                elif encode[x] == 'M':
+                    print('', end='')
+                elif encode[x] == 'N':
+                    print('', end='')
+                elif encode[x] == 'O':
+                    print('', end='')
+                elif encode[x] == 'P':
+                    print('', end='')
+                elif encode[x] == 'Q':
+                    print('', end='')
+                elif encode[x] == 'R':
+                    print('', end='')
+                elif encode[x] == 'S':
+                    print('', end='')
+                elif encode[x] == 'T':
+                    print('', end='')
+                elif encode[x] == 'U':
+                    print('', end='')
+                elif encode[x] == 'V':
+                    print('', end='')
+                elif encode[x] == 'W':
+                    print('', end='')
+                elif encode[x] == 'X':
+                    print('', end='')
+                elif encode[x] == 'Y':
+                    print('', end='')
+                elif encode[x] == 'Z':
+                    print('', end='')
+                elif encode[x] == '0':
+                    print('', end='')
+                elif encode[x] == '1':
+                    print('', end='')
+                elif encode[x] == '2':
+                    print('', end='')
+                elif encode[x] == '3':
+                    print('', end='')
+                elif encode[x] == '4':
+                    print('', end='')
+                elif encode[x] == '5':
+                    print('', end='')
+                elif encode[x] == '6':
+                    print('', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')
+
+            elif secondary == 8:
+                if encode[x] == 'a':
+                    print('', end='')
+                elif encode[x] == 'b':
+                    print('', end='')
+                elif encode[x] == 'c':
+                    print('', end='')
+                elif encode[x] == 'd':
+                    print('', end='')
+                elif encode[x] == 'e':
+                    print('', end='')
+                elif encode[x] == 'f':
+                    print('', end='')
+                elif encode[x] == 'g':
+                    print('', end='')
+                elif encode[x] == 'h':
+                    print('', end='')
+                elif encode[x] == 'i':
+                    print('', end='')
+                elif encode[x] == 'j':
+                    print('', end='')
+                elif encode[x] == 'k':
+                    print('', end='')
+                elif encode[x] == 'l':
+                    print('', end='')
+                elif encode[x] == 'm':
+                    print('', end='')
+                elif encode[x] == 'n':
+                    print('', end='')
+                elif encode[x] == 'o':
+                    print('', end='')
+                elif encode[x] == 'p':
+                    print('', end='')
+                elif encode[x] == 'q':
+                    print('', end='')
+                elif encode[x] == 'r':
+                    print('', end='')
+                elif encode[x] == 's':
+                    print('', end='')
+                elif encode[x] == 't':
+                    print('', end='')
+                elif encode[x] == 'u':
+                    print('', end='')
+                elif encode[x] == 'v':
+                    print('', end='')
+                elif encode[x] == 'w':
+                    print('', end='')
+                elif encode[x] == 'x':
+                    print('', end='')
+                elif encode[x] == 'y':
+                    print('', end='')
+                elif encode[x] == 'z':
+                    print('', end='')
+                elif encode[x] == 'A':
+                    print('', end='')
+                elif encode[x] == 'B':
+                    print('', end='')
+                elif encode[x] == 'C':
+                    print('', end='')
+                elif encode[x] == 'D':
+                    print('', end='')
+                elif encode[x] == 'E':
+                    print('', end='')
+                elif encode[x] == 'F':
+                    print('', end='')
+                elif encode[x] == 'G':
+                    print('', end='')
+                elif encode[x] == 'H':
+                    print('', end='')
+                elif encode[x] == 'I':
+                    print('', end='')
+                elif encode[x] == 'J':
+                    print('', end='')
+                elif encode[x] == 'K':
+                    print('', end='')
+                elif encode[x] == 'L':
+                    print('', end='')
+                elif encode[x] == 'M':
+                    print('', end='')
+                elif encode[x] == 'N':
+                    print('', end='')
+                elif encode[x] == 'O':
+                    print('', end='')
+                elif encode[x] == 'P':
+                    print('', end='')
+                elif encode[x] == 'Q':
+                    print('', end='')
+                elif encode[x] == 'R':
+                    print('', end='')
+                elif encode[x] == 'S':
+                    print('', end='')
+                elif encode[x] == 'T':
+                    print('', end='')
+                elif encode[x] == 'U':
+                    print('', end='')
+                elif encode[x] == 'V':
+                    print('', end='')
+                elif encode[x] == 'W':
+                    print('', end='')
+                elif encode[x] == 'X':
+                    print('', end='')
+                elif encode[x] == 'Y':
+                    print('', end='')
+                elif encode[x] == 'Z':
+                    print('', end='')
+                elif encode[x] == '0':
+                    print('', end='')
+                elif encode[x] == '1':
+                    print('', end='')
+                elif encode[x] == '2':
+                    print('', end='')
+                elif encode[x] == '3':
+                    print('', end='')
+                elif encode[x] == '4':
+                    print('', end='')
+                elif encode[x] == '5':
+                    print('', end='')
+                elif encode[x] == '6':
+                    print('', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')  
+
+            elif secondary == 9:
+                if encode[x] == 'a':
+                    print('', end='')
+                elif encode[x] == 'b':
+                    print('', end='')
+                elif encode[x] == 'c':
+                    print('', end='')
+                elif encode[x] == 'd':
+                    print('', end='')
+                elif encode[x] == 'e':
+                    print('', end='')
+                elif encode[x] == 'f':
+                    print('', end='')
+                elif encode[x] == 'g':
+                    print('', end='')
+                elif encode[x] == 'h':
+                    print('', end='')
+                elif encode[x] == 'i':
+                    print('', end='')
+                elif encode[x] == 'j':
+                    print('', end='')
+                elif encode[x] == 'k':
+                    print('', end='')
+                elif encode[x] == 'l':
+                    print('', end='')
+                elif encode[x] == 'm':
+                    print('', end='')
+                elif encode[x] == 'n':
+                    print('', end='')
+                elif encode[x] == 'o':
+                    print('', end='')
+                elif encode[x] == 'p':
+                    print('', end='')
+                elif encode[x] == 'q':
+                    print('', end='')
+                elif encode[x] == 'r':
+                    print('', end='')
+                elif encode[x] == 's':
+                    print('', end='')
+                elif encode[x] == 't':
+                    print('', end='')
+                elif encode[x] == 'u':
+                    print('', end='')
+                elif encode[x] == 'v':
+                    print('', end='')
+                elif encode[x] == 'w':
+                    print('', end='')
+                elif encode[x] == 'x':
+                    print('', end='')
+                elif encode[x] == 'y':
+                    print('', end='')
+                elif encode[x] == 'z':
+                    print('', end='')
+                elif encode[x] == 'A':
+                    print('', end='')
+                elif encode[x] == 'B':
+                    print('', end='')
+                elif encode[x] == 'C':
+                    print('', end='')
+                elif encode[x] == 'D':
+                    print('', end='')
+                elif encode[x] == 'E':
+                    print('', end='')
+                elif encode[x] == 'F':
+                    print('', end='')
+                elif encode[x] == 'G':
+                    print('', end='')
+                elif encode[x] == 'H':
+                    print('', end='')
+                elif encode[x] == 'I':
+                    print('', end='')
+                elif encode[x] == 'J':
+                    print('', end='')
+                elif encode[x] == 'K':
+                    print('', end='')
+                elif encode[x] == 'L':
+                    print('', end='')
+                elif encode[x] == 'M':
+                    print('', end='')
+                elif encode[x] == 'N':
+                    print('', end='')
+                elif encode[x] == 'O':
+                    print('', end='')
+                elif encode[x] == 'P':
+                    print('', end='')
+                elif encode[x] == 'Q':
+                    print('', end='')
+                elif encode[x] == 'R':
+                    print('', end='')
+                elif encode[x] == 'S':
+                    print('', end='')
+                elif encode[x] == 'T':
+                    print('', end='')
+                elif encode[x] == 'U':
+                    print('', end='')
+                elif encode[x] == 'V':
+                    print('', end='')
+                elif encode[x] == 'W':
+                    print('', end='')
+                elif encode[x] == 'X':
+                    print('', end='')
+                elif encode[x] == 'Y':
+                    print('', end='')
+                elif encode[x] == 'Z':
+                    print('', end='')
+                elif encode[x] == '0':
+                    print('', end='')
+                elif encode[x] == '1':
+                    print('', end='')
+                elif encode[x] == '2':
+                    print('', end='')
+                elif encode[x] == '3':
+                    print('', end='')
+                elif encode[x] == '4':
+                    print('', end='')
+                elif encode[x] == '5':
+                    print('', end='')
+                elif encode[x] == '6':
+                    print('', end='')
+                elif encode[x] == '7':
+                    print('', end='')
+                elif encode[x] == '8':
+                    print('', end='')
+                elif encode[x] == '9':
+                    print('', end='')
+                elif encode[x] == ' ':
+                    print('', end='')
+                elif encode[x] == '.':
+                    print('', end='')
+       
+            
         x += 1
 
 while True:
     encode()
-    break_loop = str(input('Encode more data? Y/N: ')).upper()
+    break_loop = str(input('\nEncode more data? Y/N: ')).upper()
 
     if break_loop == 'N':
         break
